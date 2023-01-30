@@ -1,0 +1,11 @@
+.description{
+    text-align: justify;
+}
+.spinner{
+    width: 100px;
+
+}
+.css-row{
+    display: flex;
+    justify-content: center;
+}
